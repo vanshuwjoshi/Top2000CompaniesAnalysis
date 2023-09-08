@@ -18,7 +18,7 @@ The primary objective of this project was to conduct a detailed analysis of the 
 
 ## Data Sources
 
-We sourced our data from https://www.kaggle.com/datasets/joebeachcapital/top-2000-companies-globally, to compile a comprehensive dataset covering sales, profits, market value, and assets for the top 2000 companies worldwide.
+We sourced our data from [Kaggle](https://www.kaggle.com/datasets/joebeachcapital/top-2000-companies-globally), to compile a comprehensive dataset covering sales, profits, market value, and assets for the top 2000 companies worldwide.
 
 ## Tools and Libraries
 
